@@ -4,4 +4,11 @@ body{
 h1{
     color: skyblue;
     text-align: center;
+}       
+a{
+    text-align: center;
+    color: skyblue;
+}
+nav{
+    text-align: center;
 }
